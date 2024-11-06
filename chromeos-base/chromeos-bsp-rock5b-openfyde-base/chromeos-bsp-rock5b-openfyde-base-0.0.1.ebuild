@@ -18,7 +18,7 @@ DEPEND="chromeos-base/chromeos-base"
 RDEPEND="
     sys-kernel/armbian-firmware
     app-misc/fan-control-rock5b
-    sys-boot/rock5b-loaders
+    sys-boot/rock3a-loaders
     chromeos-base/os_install_service
     chromeos-base/fake-camera-config
 "
