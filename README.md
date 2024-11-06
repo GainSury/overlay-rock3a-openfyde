@@ -27,7 +27,7 @@ This repository contains the following packages:
 <br>
 
 
-## About the board `rock5b-openfyde`
+## About the board `rock3a-openfyde`
  - This board specifically targets the [Rock 3 Model A](https://wiki.radxa.com/Rock3/3a):
 
     ![Rock 3 Model A](https://wiki.radxa.com/mw/images/c/cf/ROCK_3A.png)
