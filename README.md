@@ -1,4 +1,4 @@
-# overlay-rock5b-openfyde
+# overlay-rock3a-openfyde
 
 ![Logo badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fopenfyde-badge-wivuxrq8xzvh.runkit.sh%2F) ![Release badge](https://img.shields.io/github/v/release/openFyde/overlay-rock5b-openfyde?label=latest%20release%20image)
 
@@ -28,11 +28,11 @@ This repository contains the following packages:
 
 
 ## About the board `rock5b-openfyde`
- - This board specifically targets the [Rock 5 Model B](https://wiki.radxa.com/Rock5/5b):
+ - This board specifically targets the [Rock 3 Model A](https://wiki.radxa.com/Rock3/3a):
 
-    ![Rock 5 Model B](https://wiki.radxa.com/mw/images/thumb/2/25/Start_5b.png/660px-Start_5b.png)
+    ![Rock 3 Model A](https://wiki.radxa.com/mw/images/c/cf/ROCK_3A.png)
 
- - Rock 5 Model A is not compatible with this board
+ - Rock 3 Model C is not compatible with this board
 
 <br>
 
